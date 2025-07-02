@@ -2,10 +2,6 @@
 
 NeighborFit is a full-stack web application that helps users discover neighborhoods that best match their lifestyle preferences — based on safety, nightlife, and affordability.
 
-##  Live Demo
-
-> Will be added after deployment  
-Example: [https://neighborfit.vercel.app](https://neighborfit.vercel.app)
 
 ---
 
