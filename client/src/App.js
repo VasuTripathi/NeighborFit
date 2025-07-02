@@ -29,7 +29,7 @@ function App() {
     <div className="min-h-screen bg-gradient-to-tr from-blue-100 to-purple-100 flex items-center justify-center px-4 py-8">
       <div className="w-full max-w-3xl bg-white shadow-2xl rounded-2xl p-8 animate-fade-in">
         <h1 className="text-4xl font-extrabold text-center text-indigo-800 mb-4">
-          🏙️ NeighborFit
+           NeighborFit
         </h1>
         <p className="text-center text-gray-600 mb-8 text-sm sm:text-base">
           Find the perfect neighborhood tailored to your lifestyle preferences.
@@ -82,6 +82,7 @@ function App() {
             </div>
           </div>
         )}
+      
       </div>
     </div>
   );
